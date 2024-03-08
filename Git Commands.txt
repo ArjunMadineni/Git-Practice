@@ -1,3 +1,4 @@
+The following are the some of the commands required to work with git 
 git 
 
 git version
