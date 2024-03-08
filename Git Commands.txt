@@ -1,0 +1,17 @@
+git 
+
+git version
+
+git config --global user.name "Madineni"
+
+git config --global user.email "mmchowdary507@gmail.com"
+
+mkdir Git-Practice
+
+cd Git-Practice
+
+git branch -M main
+
+git remote add origin https://github.com/ArjunMadineni/Git-Practice.git
+
+git push -u origin main
