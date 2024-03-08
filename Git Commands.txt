@@ -10,6 +10,12 @@ mkdir Git-Practice
 
 cd Git-Practice
 
+git diff
+
+git diff --staged
+
+git log
+
 git branch -M main
 
 git remote add origin https://github.com/ArjunMadineni/Git-Practice.git
